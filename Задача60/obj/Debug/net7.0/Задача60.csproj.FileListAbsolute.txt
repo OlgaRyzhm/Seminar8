@@ -1,0 +1,15 @@
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\bin\Debug\net7.0\Задача60.exe
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\bin\Debug\net7.0\Задача60.deps.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\bin\Debug\net7.0\Задача60.runtimeconfig.json
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\bin\Debug\net7.0\Задача60.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\bin\Debug\net7.0\Задача60.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.csproj.AssemblyReference.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.AssemblyInfoInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.AssemblyInfo.cs
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.csproj.CoreCompileInputs.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\refint\Задача60.dll
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.pdb
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\Задача60.genruntimeconfig.cache
+C:\Users\ryzhm\OneDrive\Рабочий стол\Seminar8\Seminar8\Задача60\obj\Debug\net7.0\ref\Задача60.dll
